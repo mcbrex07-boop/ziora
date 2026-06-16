@@ -1,0 +1,4 @@
+# Force LF line endings for all source files
+* text=auto eol=lf
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
